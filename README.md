@@ -39,6 +39,7 @@ npm run dev
 ## Medicine OCR and Contextual Information System - **Backend**
 
 For this part you also need **Ollama** as Model Inference
+Model: Qwen3:4b
 
 ### **Installation**
 ```bash
