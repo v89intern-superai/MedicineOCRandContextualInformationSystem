@@ -26,6 +26,8 @@ git clone https://github.com/v89intern-superai/MedicineOCRandContextualInformati
 ### **Installation**
 ```bash
 cd MedicineOCRandContextualInformationSystem/frontend
+```
+```bash
 npm install
 ```
 
