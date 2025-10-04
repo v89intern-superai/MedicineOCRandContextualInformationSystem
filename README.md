@@ -45,10 +45,14 @@ For this part you also need **Ollama** as Model Inference
 cd MedicineOCRandContextualInformationSystem/backend
 pip install -r requirements.txt
 ```
+Create a .env file in the backend/ directory:
+```
+API_KEY=<your_typhoon_api_key_here>
+```
 
 ### **Start**
 ```bash
-uvicorn app:app --reload
+uvicorn main:app --reload --port 5000
 ```
 
 
