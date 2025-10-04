@@ -38,6 +38,8 @@ npm run dev
 
 ## Medicine OCR and Contextual Information System - **Backend**
 
+For this part you also need **Ollama** as Model Inference
+
 ### **Installation**
 ```bash
 cd MedicineOCRandContextualInformationSystem/backend
