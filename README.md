@@ -38,13 +38,13 @@ npm run dev
 
 ## Medicine OCR and Contextual Information System - **Backend**
 
-## **Installation**
+### **Installation**
 ```bash
 cd MedicineOCRandContextualInformationSystem/backend
 pip install -r requirements.txt
 ```
 
-## **Start**
+### **Start**
 ```bash
 uvicorn app:app --reload
 ```
