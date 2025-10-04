@@ -44,6 +44,8 @@ Model: Qwen3:4b
 ### **Installation**
 ```bash
 cd MedicineOCRandContextualInformationSystem/backend
+```
+```bash
 pip install -r requirements.txt
 ```
 
