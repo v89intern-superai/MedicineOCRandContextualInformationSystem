@@ -18,7 +18,7 @@ load_dotenv()
 api_key = os.getenv("API_KEY")
 
 UPLOAD_DIR = "uploads"
-TXT_FOLDER = "../database/output_txt"
+TXT_FOLDER = "../txt_database"
 LLM_MODEL = "qwen3:4b"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
