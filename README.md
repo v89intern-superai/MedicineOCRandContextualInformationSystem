@@ -50,7 +50,7 @@ Create a .env file in the backend/ directory:
 ```
 API_KEY="<your_typhoon_api_key_here>"
 ```
-Get your API_KEY from [Link Text] (URL "https://playground.opentyphoon.ai/settings/api-key")
+Get your API_KEY from https://playground.opentyphoon.ai/settings/api-key
 
 ### **Start**
 ```bash
