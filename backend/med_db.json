@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Paracetamol",
+    "brand_names": ["Tylenol", "Panadol"],
+    "description": "Used to relieve pain and reduce fever.",
+    "dosage": "500mg every 4–6 hours. Do not exceed 4000mg per day.",
+    "side_effects": ["Nausea", "Rash", "Liver damage at high doses"],
+    "warnings": ["Avoid alcohol", "Consult doctor if liver disease"],
+    "storage": "Store below 25°C, away from moisture."
+  },
+  {
+    "name": "Amoxicillin",
+    "brand_names": ["Amoxil", "Moxatag"],
+    "description": "Antibiotic used to treat bacterial infections.",
+    "dosage": "250–500mg every 8 hours or as prescribed.",
+    "side_effects": ["Diarrhea", "Allergic reaction", "Nausea"],
+    "warnings": ["Not for viral infections", "Tell doctor about allergies"],
+    "storage": "Store at room temperature, away from light."
+  }
+]
