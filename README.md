@@ -1,11 +1,7 @@
 # Medicine OCR and Contextual Information System
-
----
 This project is a web-based system that extracts and provides contextual information about medicines from uploaded images of medicine labels.  
 It combines **OCR (TyphoonOCR)** for text extraction, **Qwen3 LLM** for reasoning and response generation, and a **local text-file database** for retrieving medicine-specific details.  
 The backend is implemented using **FastAPI** with preprocessing powered by **OpenCV** and **PIL**.
-
----
 
 ## Features
 - Upload a medicine label image.
@@ -18,8 +14,6 @@ The backend is implemented using **FastAPI** with preprocessing powered by **Ope
   - ชื่อยาและรายละเอียด  
   - ข้อควรระวัง  
   - ผลข้างเคียง  
-
----
 
 ```bash
 git clone https://github.com/v89intern-superai/MedicineOCRandContextualInformationSystem.git
@@ -48,6 +42,10 @@ npm run dev
 ```bash
 cd MedicineOCRandContextualInformationSystem/backend
 pip install -r requirements.txt
+```
+
+## **Start**
+```bash
 uvicorn app:app --reload
 ```
 
