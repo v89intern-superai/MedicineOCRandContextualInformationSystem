@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ### **Start**
 ```bash
-uvicorn app:app --reload
+uvicorn main:app --reload --port 5000
 ```
 
 
