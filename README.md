@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 Create a .env file in the backend/ directory:
 ```
-API_KEY=<your_typhoon_api_key_here>
+API_KEY="<your_typhoon_api_key_here>"
 ```
 
 ### **Start**
